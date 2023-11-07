@@ -1,0 +1,15 @@
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\bin\Debug\netstandard2.0\XamarinIteration1.deps.json
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\bin\Debug\netstandard2.0\XamarinIteration1.dll
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\bin\Debug\netstandard2.0\ref\XamarinIteration1.dll
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\bin\Debug\netstandard2.0\XamarinIteration1.pdb
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamarinIteration1.csproj.AssemblyReference.cache
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamarinIteration1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamarinIteration1.AssemblyInfoInputs.cache
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamarinIteration1.AssemblyInfo.cs
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamarinIteration1.csproj.CoreCompileInputs.cache
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamarinIteration1.dll
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\refint\XamarinIteration1.dll
+D:\Documents\Home Projects\Shopping list\ShoppingLists\XamarinIteration1\XamarinIteration1\obj\Debug\netstandard2.0\XamarinIteration1.pdb
